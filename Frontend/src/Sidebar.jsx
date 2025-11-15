@@ -92,10 +92,11 @@ function Sidebar() {
             </ul>
  
             <div className="sign">
-                <p>By ApnaCollege &hearts;</p>
+                <p>By Shubham &hearts;</p>
             </div>
         </section>
     )
 }
+
 
 export default Sidebar;
